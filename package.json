@@ -1,0 +1,27 @@
+{
+  "name": "recost-logger",
+  "version": "0.0.1",
+  "description": "logs all the state changes done on recost",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWebCoder/recost-logger.git"
+  },
+  "keywords": [
+    "recost",
+    "logger",
+    "state",
+    "context",
+    "api",
+    "react"
+  ],
+  "author": "João Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JWebCoder/recost-logger/issues"
+  },
+  "homepage": "https://github.com/JWebCoder/recost-logger#readme"
+}
